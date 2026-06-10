@@ -1,0 +1,22 @@
+﻿# Build outputs
+bin/
+obj/
+.vs/
+
+# Visual Studio user files
+*.user
+*.suo
+*.rsuser
+
+# Logs and temporary files
+*.log
+*.tmp
+~$*
+
+# OneDrive placeholders / OS noise
+desktop.ini
+Thumbs.db
+
+# Packages
+packages/
+*.nupkg
