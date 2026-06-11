@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "H1wbzTiy3nM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dmytro\\OneDrive\\навчання\\практика\\практична 11, 12, 13\\CalculatorWinForms\\CalculatorWinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dmytro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Dmytro\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Dmytro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Dmytro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.28\\microsoft.netcore.app.host.win-x64.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
